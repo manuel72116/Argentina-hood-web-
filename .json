@@ -1,0 +1,15 @@
+// Success
+{
+  "success": true,
+  "file": {
+    "name": "script.lua",
+    "output_size_kb": 10.24
+  },
+  "deobfuscated_code": "-- Deobfuscated by LeakD...\n\nlocal function main()..."
+}
+
+// Unsupported preset
+{
+  "success": false,
+  "error": "This script does not appear to be LuaObfuscator Chaotic Good or Chaotic Evil"
+}
